@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="right">
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=en">English</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=zh-CN">简体中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=zh-TW">繁體中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=ja">日本語</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=ko">한국어</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=hi">हिन्दी</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=th">ไทย</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=fr">Français</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=de">Deutsch</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=es">Español</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=it">Itapano</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=ru">Русский</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=pt">Português</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=nl">Nederlands</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=pl">Polski</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=ar">العربية</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=fa">فارسی</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=tr">Türkçe</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=vi">Tiếng Việt</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=collidingScopes&project=arpeggiator&lang=id">Bahasa Indonesia</a></p>
+      </div>
+    </div>
+  </details>
+</div>
+
 # Hand Gesture Arpeggiator
 
 Hand-controlled arpeggiator, drum machine, and audio reactive visualizer. Raise your hands to raise the roof!
